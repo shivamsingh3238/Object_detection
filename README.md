@@ -5,7 +5,7 @@
 
 3-> in this we provid .ipynb and .py file you choose one which run easly on your system.
 
-4-> for Weight file click on given link and easly download(SIZE_236mb)
+4-> for Weight file click on given link and easly download (SIZE_236mb)
     (https://pjreddie.com/media/files/yolov3.weights)
     
-5-> Dwonload this weight file and make sure on run time  main file (Object_detection.py/.ipynb) present in same folder.
+5-> Download this weight file and make sure on run time  main file (Object_detection.py/.ipynb) present in same folder.
