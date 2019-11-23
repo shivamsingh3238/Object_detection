@@ -1,5 +1,5 @@
 # Object_detection
-1-> it use simple YOLO and CNN(hidden layer) for draw and predict  grid on image 
+1-> it use simple YOLO and CNN(hidden layer) for draw and predict  grid on image which help to classify classes .
 
 ![img](https://user-images.githubusercontent.com/57682629/69485286-6064ee80-0e63-11ea-92c6-631828fabbbd.png)
 
