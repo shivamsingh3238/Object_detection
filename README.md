@@ -1,6 +1,8 @@
 # Object_detection
 1-> it use simple YOLO and CNN(hidden layer) for draw and predict  grid on image 
 
+![](images/img.png)
+
 2-> And use COCO Dataset for labelling  Object 
 
 3-> in this we provid .ipynb and .py file you choose one which run easly on your system.
